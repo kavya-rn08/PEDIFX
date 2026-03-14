@@ -18,7 +18,9 @@ These models work together to perform automated fracture analysis.
 | Model    | Task                                         | File                 |
 | -------- | -------------------------------------------- | -------------------- |
 | YOLOv11  | Fracture region detection (object detection) | `yolov11_best.pt`    |
-| ConvNeXt | Fracture subtype classification              | `convnext_model.pth` |
+
+Download the trained classification model from the link below:
+[ConvNeXt Model](https://drive.google.com/file/d/1D18EpsBaRYztRzazJ3PjMMvN7cibfWf_/view?usp=sharing)
 
 ---
 
@@ -44,4 +46,4 @@ The complete pipeline works as follows:
 
 * Only the best-performing trained weights are stored in this folder.
 * Ensure the required dependencies are installed before loading the models.
-* Training scripts are located in the `src` directory.
+* Training codes are located in the `notebooks` directory.
