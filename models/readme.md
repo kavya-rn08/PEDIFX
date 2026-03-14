@@ -31,7 +31,7 @@ It performs **object detection** by predicting bounding boxes around fracture lo
 
 ## ConvNeXt – Fracture Classification
 
-ConvNeXt is used to classify the detected fracture regions into different fracture categories.
+ConvNeXt is used to classify the detected fracture regions into different AO fracture categories, integrated with age and XAI.
 
 ## Workflow
 
