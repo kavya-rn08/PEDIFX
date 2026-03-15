@@ -10,9 +10,3 @@ We use the GRAZPEDWRI-DX dataset.
 - YOLOv11: Fracture detection
 - ConvNeXt: Multi-class AO/OTA fracture classification
 - Grad-CAM based explainability
-
-## Citation
-If you use this work, please cite our paper.
-
-## Authors
-Kavya R Nair, Jagdeep Kaur
