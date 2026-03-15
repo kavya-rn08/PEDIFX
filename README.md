@@ -1,7 +1,7 @@
 # PEDIFX: Pediatric Wrist Fracture Classification using Explainable Deep Learning
 
 ## Overview
-PEDIFX is an age-integrated deep learning framework for detecting and classifying AO/OTA pediatric wrist fractures from X-ray images using YOLOv11-ConvNeXt model and explainable AI techniques.
+PEDIFX is an age-integrated deep learning framework for detecting and classifying AO/OTA pediatric wrist fractures from X-ray images using YOLOv11-ConvNeXt model and Explainable AI techniques.
 
 ## Dataset
 We use the GRAZPEDWRI-DX dataset.
